@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Paper",
+    "hex": "#ECE7DA",
+    "rgb": [
+      236,
+      231,
+      218
+    ],
+    "cmyk": [
+      6,
+      6,
+      14,
+      1
+    ],
+    "pantone": "Warm Gray 1 C",
+    "role": "Dominant surface. The gallery wall."
+  },
+  {
+    "name": "Ink",
+    "hex": "#1C1712",
+    "rgb": [
+      28,
+      23,
+      18
+    ],
+    "cmyk": [
+      65,
+      68,
+      74,
+      80
+    ],
+    "pantone": "Black 7 C",
+    "role": "Primary text, wordmark, hard inversion ground."
+  },
+  {
+    "name": "Espresso",
+    "hex": "#2A211A",
+    "rgb": [
+      42,
+      33,
+      26
+    ],
+    "cmyk": [
+      60,
+      66,
+      72,
+      66
+    ],
+    "pantone": "Black 4 C",
+    "role": "Softer inversion ground."
+  },
+  {
+    "name": "Signal",
+    "hex": "#C93A1E",
+    "rgb": [
+      201,
+      58,
+      30
+    ],
+    "cmyk": [
+      12,
+      90,
+      100,
+      3
+    ],
+    "pantone": "179 C",
+    "role": "Live transmission. Sparingly \u2014 never as fill."
+  }
+]

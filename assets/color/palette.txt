@@ -1,0 +1,34 @@
+PROJECT RHAPSODY — COLOR PALETTE
+======================================================
+
+PAPER
+  HEX      #ECE7DA
+  RGB      236, 231, 218
+  CMYK     6, 6, 14, 1  (approx — confirm on press proof)
+  PANTONE  Warm Gray 1 C (nearest — confirm with printer)
+  ROLE     Dominant surface. The gallery wall.
+
+INK
+  HEX      #1C1712
+  RGB      28, 23, 18
+  CMYK     65, 68, 74, 80  (approx — confirm on press proof)
+  PANTONE  Black 7 C (nearest — confirm with printer)
+  ROLE     Primary text, wordmark, hard inversion ground.
+
+ESPRESSO
+  HEX      #2A211A
+  RGB      42, 33, 26
+  CMYK     60, 66, 72, 66  (approx — confirm on press proof)
+  PANTONE  Black 4 C (nearest — confirm with printer)
+  ROLE     Softer inversion ground.
+
+SIGNAL
+  HEX      #C93A1E
+  RGB      201, 58, 30
+  CMYK     12, 90, 100, 3  (approx — confirm on press proof)
+  PANTONE  179 C (nearest — confirm with printer)
+  ROLE     Live transmission. Sparingly — never as fill.
+
+NOTE: CMYK and Pantone values are nearest-match approximations for
+specification purposes. Always confirm against a physical press proof
+before production printing.
